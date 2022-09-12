@@ -1,1 +1,1 @@
-https://share.streamlit.io/hitman-dev/nifty50_stock-analysis/app.py
+https://artissg95-forecastingnifty50project-app-tjrnv2.streamlitapp.com/
